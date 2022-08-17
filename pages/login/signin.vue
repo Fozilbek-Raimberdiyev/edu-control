@@ -24,7 +24,7 @@ methods : {
 <style scoped>
     .wrapper {
         width: 500px;
-        margin: 20% auto;
+        margin: 10% auto;
     }
     form {
         width: 90%;
